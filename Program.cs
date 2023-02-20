@@ -1,2 +1,2 @@
 ﻿// testing with provided inputs
-InputOutput.Result.main();
+MiniMax.Result.run();
