@@ -1,2 +1,2 @@
 ﻿// testing with provided inputs
-MiniMax.Result.run();
+TimeConversion.Result.run();

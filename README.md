@@ -6,4 +6,7 @@ HackerRank practice problems solutions with C#.
 [x] DiagonalDifference\
 [x] PlusMinus\
 [x] MiniMax
+[x] BirthdayCakeCandles\
+[x] TimeConversion\
+
 
