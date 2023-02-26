@@ -1,2 +1,2 @@
 ﻿// testing with provided inputs
-TimeConversion.Result.run();
+GradingStudents.Result.run();
