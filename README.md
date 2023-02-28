@@ -8,7 +8,9 @@ HackerRank practice problems solutions with C#.
 [x] MiniMax
 [x] BirthdayCakeCandles\
 [x] TimeConversion\
-[x] GradingStudents
+[x] GradingStudents\
+[x] CountApplesAndOrranges
+
 
 
 
